@@ -1,4 +1,8 @@
 # Compiled Object files
+Executable1
+HelloWorld
+*.txt
+*~
 *.slo
 *.lo
 *.o
